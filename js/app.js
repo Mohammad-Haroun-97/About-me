@@ -71,6 +71,7 @@ function questionC() {
 questionC();
 
 
+function questionD(){
         let question3=prompt('Do you think that people call me by my last name?')
         question3 = question3.toUpperCase();
 
@@ -96,7 +97,8 @@ questionC();
                     break;
 
             }
-
+        }
+        questionD();
             let question4=prompt('Do I live in Amman?')
             question4 = question4.toUpperCase();
 
