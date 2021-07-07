@@ -10,7 +10,7 @@ alert('Welcome ' + username +' to my profile page, I hope you will enjoy explori
 questionA();
 
 
-function questionB{
+function questionB(){
 
 let question1=prompt('Do you think that I am a good cook  ?')
 question1= question1.toLowerCase();
@@ -40,6 +40,9 @@ switch (question1) {
 }
 questionB();
 
+function questionC() {
+
+}
     let question2=prompt('Am I satisfied with the software code course?')
     question2 = question2.toLowerCase();
 
@@ -65,6 +68,8 @@ questionB();
                 break;
 
         }
+questionC();
+
 
         let question3=prompt('Do you think that people call me by my last name?')
         question3 = question3.toUpperCase();
