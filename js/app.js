@@ -165,6 +165,8 @@ function questionD(){
                     
 
 
+function questionG(){
+
 
 
 for (let i = 0; i < 4; i++) {
@@ -190,6 +192,11 @@ for (let i = 0; i < 4; i++) {
     }
 
 }
+}
+
+questionG();
+
+
 
 let movies = ['Intersteller', 'Green Mile', 'The pianest', 'Catch me if you can']
 let correct = false;
