@@ -1,8 +1,11 @@
 'use strict';
-function questionA() {
-    let score = 0;
 
-    let username = prompt('What is your name ?');
+let score = 0;
+let username = prompt('What is your name ?'); 
+
+function questionA() {
+   
+   
 
     alert('Welcome ' + username + ' to my profile page, I hope you will enjoy exploring my website ')
 
