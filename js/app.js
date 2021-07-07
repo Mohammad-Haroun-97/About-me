@@ -99,6 +99,10 @@ function questionD(){
             }
         }
         questionD();
+
+        function questionE(){
+
+        
             let question4=prompt('Do I live in Amman?')
             question4 = question4.toUpperCase();
 
@@ -124,7 +128,12 @@ function questionD(){
                         break;
 
                 }
+            }
+            questionE();
 
+            Function questionF(){
+
+            
                 let question5=prompt('Do you think that i am a food lover?')
                 question5 = question5.toUpperCase();
 
@@ -150,7 +159,8 @@ function questionD(){
                             break;
 
                     }
-
+                }
+                questionF();
 
                     
 
