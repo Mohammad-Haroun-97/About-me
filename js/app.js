@@ -1,10 +1,14 @@
 'use strict';
-
+function questionA(){
 let score=0;
 
 let username=prompt('What is your name ?'); 
 
 alert('Welcome ' + username +' to my profile page, I hope you will enjoy exploring my website ')
+
+}
+questionA();
+
 
 let question1=prompt('Do you think that I am a good cook  ?')
 question1= question1.toLowerCase();
