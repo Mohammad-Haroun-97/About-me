@@ -22,20 +22,20 @@ function questionB() {
 
         case 'y':
         case 'yes':
-            // console.log(question1)
+           
             alert('You are right, I am a good cook');
             score++;
             break;
 
         case 'no':
         case 'n':
-            // console.log(question1)
+            
 
             alert('Opss, you dont me very well, I am a professional cook ');
             break;
 
         default:
-            // console.log(question1)
+            
             alert('You have to answer yes or no');
             break;
 
@@ -53,20 +53,20 @@ switch (question2) {
 
     case 'y':
     case 'yes':
-        // console.log(question1)
+        
         alert('You are right, I am oversatisfied with this course');
         score++;
         break;
 
     case 'no':
     case 'n':
-        // console.log(question1)
+     
 
         alert('You are wrong, I am very happy that i signed up this course ');
         break;
 
     default:
-        // console.log(question1)
+       
         alert('You have to answer yes or no');
         break;
 
@@ -84,20 +84,20 @@ function questionD() {
 
         case 'Y':
         case 'YES':
-            // console.log(question1)
+         
             alert('You are right, most people call me Haroun which is it my last name');
             score++;
             break;
 
         case 'NO':
         case 'N':
-            // console.log(question1)
+          
 
             alert('Nope, you did not guess it right ');
             break;
 
         default:
-            // console.log(question1)
+          
             alert('You have to answer yes or no');
             break;
 
@@ -115,20 +115,18 @@ function questionE() {
 
         case 'Y':
         case 'YES':
-            // console.log(question1)
+           
             alert('You are right, I live in Shafa Badran in Amman');
             score++;
             break;
 
         case 'NO':
         case 'N':
-            // console.log(question1)
 
             alert('Unfortunately, your answer is wrong ');
             break;
 
         default:
-            // console.log(question1)
             alert('You have to answer yes or no');
             break;
 
@@ -146,20 +144,20 @@ function questionL() {
 
         case 'Y':
         case 'YES':
-            // console.log(question1)
+            
             alert('For sure, I hope you will my food buddy');
             score++;
             break;
 
         case 'NO':
         case 'N':
-            // console.log(question1)
+           
 
             alert('you are completely wrong, the most thing that i love is food ');
             break;
 
         default:
-            // console.log(question1)
+           
             alert('You have to answer yes or no');
             break;
 
